@@ -107,6 +107,6 @@ The Power BI dashboard (`Power BI Dashboard/Credit Card Financial Analytics Dash
 
 ## Author
 
-* **Rahul M Ramchandani**
-* **Email:** rahulramchand505@gmail.com
-**LinkedIn:** [Rahul M Ramchandani](https://www.linkedin.com/in/rahul-m-ramchandani/)
+- **Rahul M Ramchandani**
+- **Email:** [rahulramchand505@gmail.com](mailto:rahulramchand505@gmail.com)
+- **LinkedIn:** [Rahul M Ramchandani](https://www.linkedin.com/in/rahul-m-ramchandani/)
